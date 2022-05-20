@@ -3,7 +3,7 @@
 
 Hi there,
 
-I'm Alex, a Junior Developer from London, UK.
+I'm Alex, a Full-Stack web Developer from London, UK.
 
 I am passionate about continuously educating myself in new languages and coding methods.
 Studying towards a university-accredited software development diploma, I am furthering my knowledge of HTML, CSS, JavaScript, Python, Django and more.
